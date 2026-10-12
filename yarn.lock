@@ -2897,9 +2897,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@testing-library/react-native@npm:14.0.1":
-  version: 14.0.1
-  resolution: "@testing-library/react-native@npm:14.0.1"
+"@testing-library/react-native@npm:14.1.0":
+  version: 14.1.0
+  resolution: "@testing-library/react-native@npm:14.1.0"
   dependencies:
     jest-matcher-utils: "npm:^30.4.1"
     picocolors: "npm:^1.1.1"
@@ -2913,7 +2913,7 @@ __metadata:
   peerDependenciesMeta:
     jest:
       optional: true
-  checksum: 10c0/339b3cbb4823384c1661dada540935107fd4e0c4e61b705a3516a2efbbd0bb03cd3f21584b769a34583409a83eef797048ae1e603f7e43fb5b669568d8f9f2f8
+  checksum: 10c0/620129d24659d306d9fc7f3d8bf2674dfd7b25ace530b7f83408a268cbd78108a097d557db9474a7b1ea5a7ac2319e21078486826d9cde9a0560971b5e399ce2
   languageName: node
   linkType: hard
 
@@ -10790,7 +10790,7 @@ __metadata:
     "@react-native-vector-icons/material-design-icons": "npm:^13.1.4"
     "@react-native/jest-preset": "npm:0.86.3"
     "@react-native/metro-config": "npm:0.86.2"
-    "@testing-library/react-native": "npm:14.0.1"
+    "@testing-library/react-native": "npm:14.1.0"
     "@types/papaparse": "npm:5.5.2"
     "@types/react": "npm:~19.2.14"
     "@types/react-dom": "npm:~19.2.0"
